@@ -17,8 +17,6 @@ Also, make sure you include a .env file with your OpenAI API key. You can get on
 
 Refer to the .env_template for the format.
 
-```bash
-
 ### Installing
 
 I recommend putting this in a Python Virtual Environment.
